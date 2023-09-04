@@ -1,7 +1,7 @@
-# Python File Mover Readme
+# PySimpleGUI File Mover Readme
 ## Introduction
 
-The File Mover Python script is a simple utility built with PySimpleGUI that allows users to effortlessly move multiple files of the same extensions from one directory to another. Whether you need to organize your files, sort them into specific folders, or perform any other bulk file movement tasks, this script simplifies the process.
+The PySimpleGUI File Mover is a simple utility built with PySimpleGUI that allows users to effortlessly move multiple files of the same extensions from one directory to another. Whether you need to organize your files, sort them into specific folders, or perform any other bulk file movement tasks, this script simplifies the process.
 
 ## Features
 
